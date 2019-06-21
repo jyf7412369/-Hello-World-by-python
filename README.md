@@ -12,7 +12,7 @@
 >input:键盘输入；
 >pylp( )：没查到。。。
 >import使用：调包！！！！
->pep8:python特有的缩进要求，推介使用autopep8这个exe，附教程：https://www.cnblogs.com/xiao-apple36/p/9242069.html
+>pep8:python特有的缩进要求，推介使用autopep8这个exe，附[教程](https://www.cnblogs.com/xiao-apple36/p/9242069.html)
 
 
 ###基础
@@ -26,8 +26,8 @@
 >算数运算符、逻辑运算符、成员运算符、身份运算符、运算符（使用见代码）
 
 ###代码部分
->#
-# print("hello world")  # 学习print的函数
+(''')
+ print("hello world")  # 学习print的函数
 #
 # # 字面常量
 # # 数字，文本，字面意义上的值
@@ -97,11 +97,8 @@ c = 2*d
 b = 6-d
 if(b is c):
     print("ok")
+(''')
 
-
-# # 控制流
-#
-# number = 23
 
 
 
