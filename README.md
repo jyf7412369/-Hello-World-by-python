@@ -27,8 +27,7 @@
 
 ###代码部分
 (''')
-
- print("hello world")  # 学习print的函数
+print("hello world")  # 学习print的函数
 
  字面常量
  数字，文本，字面意义上的值
@@ -97,8 +96,6 @@ c = 2*d
 b = 6-d
 if(b is c):
     print("ok")
-
-
 (''')
 
 
